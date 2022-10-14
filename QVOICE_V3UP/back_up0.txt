@@ -1,0 +1,7 @@
+인터넷-C:/Program Files/Google/Chrome/Application/chrome.exe-['chrome.exe']-인터넷 닫기
+파이어웍스-C:/Program Files (x86)/Macromedia/Fireworks 8/Fireworks.exe-['Fireworks.exe']-파이어웍스 닫기
+MWC-C:/Program Files (x86)/Noteworthy Software/NoteWorthy Composer 2/nwc.exe-['nwc.exe']-MWC 종료
+한컴오피스-C:/Program Files (x86)/Hnc/Office 2020/HncUtils/Studio/HancomStudio.exe-['HancomStudio.exe']-한컴오피스 닫기
+파일질라-C:/Program Files/FileZilla FTP Client/filezilla.exe-['filezilla.exe']-파일질라 닫기
+모바비-C:/Users/kps30/AppData/Roaming/Movavi Video Editor Plus/VideoEditorPlus.exe-['VideoEditorPlus.exe']-모바비 종료
+파이참-C:/Program Files/JetBrains/PyCharm Community Edition 2022.2.2/bin/pycharm64.exe-['PyCharm Community Edition 2022.2.2', 'pycharm64.exe']-파이참 닫기
