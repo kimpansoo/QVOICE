@@ -7,9 +7,10 @@
 할 수 있도록 했습니다. (이를 사용하기 위해서는 외부 제어 모듈이 필요합니다만)  
 
 자세히는 QVOICE를 제작하기 위한 기본 전제로는 PYTHON 음성인식기와 TKINTER 를 통한 리스트 및 GUI 제작의 학습이 필요합니다.  
-이를 통해 음성와 PC를 통한 활용범위가 확대되기를 기대합니다.~~ 
+이를 통해 음성와 PC를 통한 활용범위가 확대되기를 기대합니다.~~  
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="![image](https://user-images.githubusercontent.com/15701294/195753115-290c568c-c15e-4223-8327-198f2a5dbe51.png)">
 </picture>
