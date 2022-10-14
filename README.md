@@ -9,8 +9,12 @@
 자세히는 QVOICE를 제작하기 위한 기본 전제로는 PYTHON 음성인식기와 TKINTER 를 통한 리스트 및 GUI 제작의 학습이 필요합니다.  
 이를 통해 음성와 PC를 통한 활용범위가 확대되기를 기대합니다.~~  
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="![image](https://user-images.githubusercontent.com/15701294/195753115-290c568c-c15e-4223-8327-198f2a5dbe51.png)">
-</picture>
+![image](https://user-images.githubusercontent.com/15701294/195753115-290c568c-c15e-4223-8327-198f2a5dbe51.png)  
+
+### 먼저 기본으로   
+>여기 사이트 [Python-기초-강좌-3-음성-인식-프로그램-개괄](https://acknowledge.tistory.com/entry/Python-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C-3-%EC%9D%8C%EC%84%B1-%EC%9D%B8%EC%8B%9D-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EA%B4%84)  
+
+>깃헙 [https://github.com/gadeokexp](https://github.com/gadeokexp/VoiceTyper)  
+
+을 인용함에 감사드립니다.  
+
