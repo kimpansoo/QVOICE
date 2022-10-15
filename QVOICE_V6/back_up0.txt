@@ -1,0 +1,17 @@
+PIC-C:/Program Files (x86)/Microchip/PICkit 3 v3/PICkit3.exe-['PICkit3.exe']-PIC 닫기
+파이어웍스-C:/Program Files (x86)/Macromedia/Fireworks 8/Fireworks.exe-['Fireworks.exe']-파이어웍스 닫기
+카톡-C:/Program Files (x86)/Kakao/KakaoTalk/KakaoTalk.exe-['KakaoTalk.exe']-카톡 닫기
+철도 아카데미-https://hrd.korail.com/common/greeting.do-['hrd.korail.com', 'greeting.do']-철도 아카데미 닫기
+유튜브-https://www.youtube.com/-['www.youtube.com']-유튜브 닫기
+cmd-C:/Windows/System32/cmd.exe-['cmd.exe']-cmd 닫기
+모바비-C:/Users/kps30/AppData/Roaming/Movavi Video Editor Plus/VideoEditorPlus.exe-['VideoEditorPlus.exe']-모바비 닫기
+한컴 오피스-C:/Program Files (x86)/Hnc/Office 2020/HncUtils/Studio/HancomStudio.exe-['HancomStudio.exe']-한컴오피스 닫기
+오캠-C:/Program Files (x86)/oCam/oCam.exe-['oCam.exe']-오캠 닫기
+큐베이스-C:/Program Files/Steinberg/Cubase LE AI Elements 8/Cubase LE AI Elements 8.exe-['Cubase LE AI Elements 8.exe']-큐베이스 닫기
+NWC-C:/Program Files (x86)/Noteworthy Software/NoteWorthy Composer 2/nwc.exe-['nwc.exe']-NWC 닫기
+파일질라-C:/Program Files/FileZilla FTP Client/filezilla1.exe-['filezilla1.exe']-파일질라 닫기
+사진-C:/Users/kps30/Pictures/1.png-['1.png']-사진 닫기
+통신-C:/Program Files/PuTTY/putty.exe-['putty.exe']-통신 닫기
+인터넷-C:/Program Files/Google/Chrome/Application/chrome.exe-['chrome.exe']-인터넷 닫기
+파이참-C:/Program Files/JetBrains/PyCharm Community Edition 2022.2.2/bin/pycharm64.exe-['PyCharm Community Edition 2022.2.2', 'pycharm64.exe']-파이참 닫기
+Q 보이스-C:/pythonProject/QVOICE_V6/QVOICE_V6.exe-['QVOICE_V6.exe']-큐보이스 닫기
