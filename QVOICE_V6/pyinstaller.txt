@@ -1,1 +1,0 @@
-C:\Users\kps30\.conda\envs\house\Scripts>pyinstaller --hidden-import psutil --icon=QVOICE_ICO.ico -w -F --onefile QVOICE_V6.py
