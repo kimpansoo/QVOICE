@@ -1,5 +1,6 @@
 # QVOICE
 > 음성으로 PC를 제어하자  
+## VER3.0  
 
 음성으로 컴퓨터의 모든 프로그램을 켰다 끌 수 있는 음성제어기 입니다.  
 또한 외부 즉,시리얼 통신으로 HC12를 통한 근거리 통신 제어가 가능하도록 하였습니다.  
@@ -20,4 +21,11 @@
 
 >동영상  
 
-[![QVOICE _ Into the I-LAND](http://img.youtube.com/vi/qWwpkO4Ndqo/0.jpg)](https://youtu.be/qWwpkO4Ndqo?t=0s) 
+[![QVOICE _ Into the I-LAND](http://img.youtube.com/vi/qWwpkO4Ndqo/0.jpg)](https://youtu.be/qWwpkO4Ndqo?t=0s)   
+## VER6.0  
+레이아웃 변경했습니다.   
+
+- 외부제어 포트 1개 더추가  
+- 음성 명령어 목록 몇개인지 잘 보이게 화면 배치  
+
+![image](https://user-images.githubusercontent.com/15701294/195985350-e777d20b-537e-43bd-9ba1-a77dc6e7c9b4.png)
